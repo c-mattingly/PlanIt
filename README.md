@@ -57,6 +57,7 @@ A Full-Stack Django Application for adding activities or events and collaboratin
 - Django
 - Python
 - PostgreSQL
+- jQuery
 - CSS
 - HTML
 
