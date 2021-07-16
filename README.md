@@ -15,7 +15,7 @@ A Full-Stack Django Application for adding activities or events and collaboratin
 
 **Rachel Kim (<a href="https://github.com/bosunkim92">GitHub</a>)**: 
 - Product Design
-- Documentaion
+- Documentation
 - Full-Stack Development
 
 **Greg Webb (<a href="https://github.com/gregwebb">GitHub</a>)**:
@@ -57,6 +57,8 @@ A Full-Stack Django Application for adding activities or events and collaboratin
 - Django
 - Python
 - PostgreSQL
+- JavaScript
+- jQuery
 - CSS
 - HTML
 
