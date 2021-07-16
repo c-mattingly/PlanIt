@@ -3,7 +3,7 @@
 
 
 
-## Introduction
+## Introduction 
 ----
 ----
 A Full-Stack Django Application for adding activities or events and collaborating with others on times/places work best with their schedules. User can create accounts, add activities, let others know they want to attend their activities, suggest places and times, locations are marked on the map and add additional comments to the activity's details page. Life is complicated, meeting up shouldn't be. 
